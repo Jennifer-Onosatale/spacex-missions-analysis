@@ -26,5 +26,31 @@ and rocket landing technology evolution.
 - Mission success rate improved from 0% in 2006 to 
   90%+ from 2014 onwards
 - USA dominates customer base with 56% of all missions
+- - Landing success rate reached 100% in 2017 — proving 
+  reusable rocket technology mastery
+
+## Recommendations
+1. Pursue international customers to reduce 56% US 
+   market dependence
+2. Use 90%+ success rate to attract new customers and 
+   expand into reliability dependent industries
+3. Leverage 100% landing success to reduce costs through 
+   reusability and offer competitive pricing
+
+## Files in Repository
+- SpaceX_Missions.xlsx — Cleaned Excel workbook
+- SQL_Queries.sql — All 3 SQL queries
+- SpaceX_Analysis_Report.pdf — Full report
+
+## Dashboard
+https://public.tableau.com/views/SpaceXMissionAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Analyst
+Jennifer Onosatale
+Physics Undergraduate — University of Benin
+Data Analytics Essentials — Cisco Networking Academy
+Skill2Scale Program
+May 2026
+
 
 
